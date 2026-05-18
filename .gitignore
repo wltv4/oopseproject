@@ -1,0 +1,10 @@
+.idea/
+
+cmake-build-*/
+out/
+build/
+_deps/
+
+*.exe
+*.dll
+*.lib
