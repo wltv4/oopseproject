@@ -56,3 +56,5 @@ This programme is a simulation of an intersection. The simulation uses an SFML g
 
 ## Authors
 Paweł Duda & Mieszko Karski
+
+![Concept art](https://github.com/wltv4/oopseproject/blob/main/Traffic_lights.png)
