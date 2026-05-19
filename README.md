@@ -1,6 +1,8 @@
 # Traffic Light Controller
 A simulated intersection with four synchronised traffic lights.
 
+![Concept art](https://github.com/wltv4/oopseproject/blob/main/Traffic_lights.png)
+
 ## Table of contents
 * [Intro] (#intro)
 * [How to run] (#how-to-run)
@@ -56,5 +58,3 @@ This programme is a simulation of an intersection. The simulation uses an SFML g
 
 ## Authors
 Paweł Duda & Mieszko Karski
-
-![Concept art](https://github.com/wltv4/oopseproject/blob/main/Traffic_lights.png)
